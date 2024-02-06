@@ -1,16 +1,16 @@
 # Image-Classification-and-Anomaly-Detection-Using-Different-Autoencoder-Models
 
-- This project utilizes TensorFlow and Keras to implement image classification using the VGG16 transfer learning model and autoencoders for anomaly detection.
+This project utilizes TensorFlow and Keras to implement image classification using the VGG16 transfer learning model and autoencoders for anomaly detection.
 
-- VGG16 Transfer Learning Model: For image classification.
+  VGG16 Transfer Learning Model: For image classification.
 
-- Simple MLP Autoencoder: Used for anomaly detection.
+  Simple MLP Autoencoder: Used for anomaly detection.
 
-- CNN Autoencoder: Another approach for anomaly detection.
+  CNN Autoencoder: Another approach for anomaly detection.
 
-- Modified Autoencoder with VGG16 Encoder: Combining VGG16 with an autoencoder for anomaly detection.
+  Modified Autoencoder with VGG16 Encoder: Combining VGG16 with an autoencoder for anomaly detection.
 
-- Models:
+  Models:
 
 - VGG16 Transfer Learning Model
 - The VGG16 model is employed for image classification. It is pre-trained on the ImageNet dataset and fine-tuned for the specific use case.
