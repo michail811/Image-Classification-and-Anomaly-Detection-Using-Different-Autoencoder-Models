@@ -22,4 +22,5 @@ This project utilizes TensorFlow and Keras to implement image classification usi
   A Convolutional Neural Network (CNN) based autoencoder is implemented for anomaly detection.
 
 - Modified Autoencoder with VGG16 Encoder
+- 
   This model combines a modified autoencoder with the VGG16 encoder, creating a unique approach for anomaly detection.
